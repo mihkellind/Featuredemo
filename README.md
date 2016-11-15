@@ -1,4 +1,4 @@
 # Featuredemo
 New GitHub Features
 
-Update: No updates availeble
+Update: No updates availeble yet
